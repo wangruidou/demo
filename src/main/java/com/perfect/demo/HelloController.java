@@ -12,6 +12,6 @@ public class HelloController {
     @RequestMapping(value="/hello", method = RequestMethod.GET)
     public String hello() {
 
-        return "Hello SpringBoot";
+        return "Hello SpringBoot11";
     }
 }
